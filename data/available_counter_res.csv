@@ -1,4 +1,6 @@
-Mike,Bill ,Hank,Count
+Mike,Bill,Hank,Count
 yes,no,yes,2
 no,yes,yes,2
 no,yes,no,1
+no,no,no,0
+yes,yes,yes,3
